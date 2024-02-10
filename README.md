@@ -1,1 +1,1 @@
-# JADE
+# JADE-Just Amusingly Dorky Entity
